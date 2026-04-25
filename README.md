@@ -61,5 +61,4 @@ Analyze sales data and create an interactive dashboard.
 
 ---
 
-✨ Beginner Data Analyst Project
 
