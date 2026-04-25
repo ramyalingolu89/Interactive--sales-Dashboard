@@ -1,8 +1,8 @@
-# 📊 Sales Dashboard with EDA (Power BI + Python)
+# 📊 Sales Dashboard Project
 
 ## 📌 Objective
 
-Analyze and visualize sales performance using Python (EDA) and Power BI dashboard.
+Analyze sales data and create an interactive dashboard.
 
 ---
 
@@ -10,39 +10,56 @@ Analyze and visualize sales performance using Python (EDA) and Power BI dashboar
 
 * Python (Pandas)
 * Power BI
-* Excel / CSV
+* CSV Dataset
 
 ---
 
-## 🔍 Exploratory Data Analysis (Python)
+## 🔍 EDA (Python)
 
-Performed using Python to understand data before visualization:
-
-## 📊 Power BI Dashboard Features
-
-* 📌 KPIs:
-
-  * Total Sales
-  * Total Profit
-  * Total Orders
-
-* 📈 Visuals:
-
-  * Sales by Region
-  * Sales by Category
-  * Top 10 Products
-
-* 🎯 Filters:
-
-  * Region
-  * Category
-  * Date
+* Loaded dataset using Pandas
+* Cleaned data and handled dates
+* Analyzed sales, profit, and top products
 
 ---
 
-## 📈 Key Insights
+## 📊 Dashboard (Power BI)
 
-* Technology category generates highest revenue
-* Some products have high sales but low profit
-* Discounts reduce profit margins
-* Regional performance varies significantly
+* Total Sales, Profit, Orders (KPIs)
+* Sales by Region
+* Sales by Category
+* Top 10 Products
+* Filters for Region, Category, Date
+
+---
+
+## 📂 Files
+
+* Sales_Dashboard.pbix
+* sales_data.csv
+* eda_analysis.py
+
+---
+
+## 🚀 How to Use
+
+1. Run Python file:
+
+   ```bash
+   python eda_analysis.py
+   ```
+2. Open Power BI file:
+
+   * Sales_Dashboard.pbix
+
+---
+
+## 📈 Insights
+
+* Some regions have higher sales
+* Technology category performs well
+* Discounts affect profit
+
+---
+
+✨ Beginner Data Analyst Project
+
